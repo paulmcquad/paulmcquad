@@ -20,8 +20,6 @@
 [<img align="left" alt="paulmcquad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="paulmcquad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
-### My
-
 <br />
 
 ## Coderforge
@@ -34,7 +32,13 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 
 ## My Developer Setup
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/) [![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
+### Operating Systems:
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
+
+### Office Suite:
+
+[![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
 
 ### Tools:
 
@@ -59,6 +63,8 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [<img align="left" alt="cobol" width="26px" src="https://hackr.io/tutorials/learn-cobol/logo/logo-cobol?ver=1557508141">][cobol]
 [<img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/255px-Fortran_logo.svg.png">][fortran]
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">][java]
+[<img align="left" alt="perl" width="26px" src="https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png">][perl]
+[<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">][go]
 
 <br />
 
@@ -79,7 +85,6 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [js]: https://github.com/paulmcquad/javascript
 [python]: https://github.com/paulmcquad/Python
 [scala]: https://github.com/paulmcquad/Scala
-[r]: https://www.r-project.org/
 [c]: https://github.com/paulmcquad/C
 [cpp]: https://github.com/paulmcquad/CPP
 [cobol]: https://github.com/paulmcquad/Cobol
@@ -87,6 +92,9 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [java]: https://github.com/paulmcquad/Java
 [sass]: https://github.com/paulmcquad/SASS
 [jquery]: https://github.com/paulmcquad/JQuery
+[perl]: https://github.com/paulmcquad/Perl
+[go]: https://golang.org/
+[r]: https://www.r-project.org/
 
 <!-- Tools -->
 
