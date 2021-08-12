@@ -11,14 +11,17 @@
 
 ### - 📫 How to reach me:
 
-[![Website](https://img.shields.io/website?label=coderforge.io/&style=for-the-badge&url=https://coderforge.io/)](https://www.coderforge.io/index.html) [![Twitter Follow](https://img.shields.io/twitter/follow/paulmcquad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/paulmcquad&screen_name=paulmcquad)
-
+[<img align="left" alt="paulmcquad | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 [<img align="left" alt="paulmcquad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="paulmcquad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="paulmcquad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="paulmcquad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="paulmcquad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="paulmcquad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="paulmcquad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+
+<br />
+
+[![Website](https://img.shields.io/website?label=coderforge.io/&style=for-the-badge&url=https://coderforge.io/)](https://www.coderforge.io/index.html) [![Twitter Follow](https://img.shields.io/twitter/follow/paulmcquad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/paulmcquad&screen_name=paulmcquad)
 
 <br />
 
@@ -87,6 +90,7 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 
 <!-- Websites -->
 
+[email]: paulmcquad@gmail.com
 [website]: https://paulmcquad.github.io/
 [facebook]: https://www.facebook.com/paulmcquad
 [twitter]: https://twitter.com/paulmcquad/
@@ -132,6 +136,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- https://simpleicons.org/
 
 - https://github.com/alexandresanlim/Badges4-README.md-Profile
 
