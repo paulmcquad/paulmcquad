@@ -65,6 +65,9 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" >][jquery]
 [<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][bootstrap]
 
+<br />
+<br />
+
 ### Mature Languages (1950s):
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">][c]
@@ -75,6 +78,9 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">][java]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][r]
 [<img align="left" alt="perl" width="26px" src="https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png">][perl]
+
+<br />
+<br />
 
 ### Modern Languages (2000s):
 
