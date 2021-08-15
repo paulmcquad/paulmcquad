@@ -71,6 +71,12 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [<img align="left" alt="perl" width="26px" src="https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png">][perl]
 [<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">][go]
 [<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][bootstrap]
+
+<br />
+<br />
+
+### MEAN Stack:
+
 [<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">][mongodb]
 [<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">][express]
 [<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][angular]
