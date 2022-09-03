@@ -1,4 +1,4 @@
-### Hi there, I'm Paul. Co Founder of [Coderforge][coderforge] 👋
+### Hi there, I'm Paul. Founder of [Swords Maker Space][swordsmakerspace] 👋
 
 ## I'm a freelance open source developer and mentor
 
@@ -129,7 +129,7 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [youtube]: https://www.youtube.com/c/PaulMcQuade
 [instagram]: https://instagram.com/paulmcquad
 [linkedin]: https://linkedin.com/in/paulmcquad
-[coderforge]: https://www.coderforge.io/
+[swordsmakerspace]: https://github.com/swordsmakerspace
 
 <!-- Languages -->
 
