@@ -1,6 +1,6 @@
 ### Hi there, I'm Paul. Founder of [Swords Maker Space][swordsmakerspace] 👋
 
-## I'm a freelance open source developer and mentor
+## I'm a open source developer and mentor
 
 - 🔭 I’m currently working on my projects involving maths and coding.
 - 🌱 I’m currently researching number theory.
