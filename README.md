@@ -32,7 +32,7 @@
 
 ## [Swords Maker Space][swordsmakerspace]
 
-Swords Maker Space is a online coding meetup group. It's for people who want to learn how to code from people who know how to code!
+Swords Maker Space is an online coding meetup group. It's for people who want to learn how to code from people who know how to code!
 
 Due to the Covid-19 situation - The meeting is done online via Zoom meetups only.
 
