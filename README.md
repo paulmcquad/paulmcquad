@@ -30,13 +30,20 @@
 
 <br />
 
-## Coderforge
+## [Swords Maker Space][swordsmakerspace]
 
-Coder Forge was a coding meetup to Learn to code for free every Tuesday in Temple Bar, Dublin. It's for people who want to learn how to code from people who know how to code!
+Swords Maker Space is a online coding meetup group. It's for people who want to learn how to code from people who know how to code!
 
-Due to the Covid-19 situation - The meeting is done online via Zoom meetups only. (7pm - 9pm)
+Due to the Covid-19 situation - The meeting is done online via Zoom meetups only.
 
-[![Meetup](https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)](https://www.meetup.com/Dublin-Coder-Forge/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/coderforge) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://coderforgeworkspace.slack.com/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HRbfQ8Mnx7VLIXzjuuh6ZH) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/87920681193)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY) 
+
+<!--
+[![Meetup](https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)](https://www.meetup.com/Dublin-Coder-Forge/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/coderforge) 
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://coderforgeworkspace.slack.com/) 
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/87920681193)
+-->
 
 ## My Developer Setup
 
