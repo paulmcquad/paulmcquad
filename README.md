@@ -129,7 +129,7 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 
 <!-- Websites -->
 
-[email]: paulmcquad@gmail.com
+[email]: mailto:paulmcquad@gmail.com
 [website]: https://paulmcquad.github.io/
 [facebook]: https://www.facebook.com/paulmcquad
 [twitter]: https://twitter.com/paulmcquad/
