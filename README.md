@@ -24,7 +24,9 @@
 <br />
 <br />
 
+<!--
 [![website](https://img.shields.io/website?label=paulmcquad.github.io&style=for-the-badge&url=https://paulmcquad.github.io)](https://paulmcquad.github.io)
+-->
 
 [![Website](https://img.shields.io/website?label=swordsmakerspace.github.io/swordsmakerspace/&style=for-the-badge&url=https://swordsmakerspace.github.io/swordsmakerspace/)](https://swordsmakerspace.github.io/swordsmakerspace/index.html)
 
