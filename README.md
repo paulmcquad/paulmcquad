@@ -23,15 +23,13 @@
 
 <img src="https://projecteuler.net/profile/paulmcquad.png">
 <br />
-<br />
-<br />
 
 <!--
 [![website](https://img.shields.io/website?label=paulmcquad.github.io&style=for-the-badge&url=https://paulmcquad.github.io)](https://paulmcquad.github.io)
 -->
-
+<!--
 [![Website](https://img.shields.io/website?label=swordsmakerspace.github.io/swordsmakerspace/&style=for-the-badge&url=https://swordsmakerspace.github.io/swordsmakerspace/)](https://swordsmakerspace.github.io/swordsmakerspace/index.html)
-
+-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/paulmcquad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/paulmcquad&screen_name=paulmcquad)
 
 <br />
