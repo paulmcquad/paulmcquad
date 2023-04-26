@@ -99,7 +99,7 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 ### Modern Languages (2000s):
 
 [<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">][scala]
-
+[<img align="left" alt="ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">][ruby]
 [<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">][go]
 
 <br />
@@ -160,6 +160,7 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [go]: https://golang.org/
 [r]: https://www.r-project.org/
 [bootstrap]: https://getbootstrap.com/
+[ruby]: https://www.ruby-lang.org/en/
 
 <!-- MEAN -->
 
