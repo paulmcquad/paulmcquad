@@ -160,7 +160,7 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [go]: https://golang.org/
 [r]: https://www.r-project.org/
 [bootstrap]: https://getbootstrap.com/
-[ruby]: https://www.ruby-lang.org/en/
+[ruby]: https://github.com/paulmcquad/twgr
 
 <!-- MEAN -->
 
