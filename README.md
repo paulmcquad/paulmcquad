@@ -97,18 +97,12 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 
 | Skill   | Technologies |
 |---------|--------------|
+| Tools | [<img alt="bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />][terminal] [<img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">][vscode] |
 | Version Control System (VCS) | [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />][git] |
 | Code hosting | <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> [<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />][gitlab] |
 | Frontend | [<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />][html5] [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" />][css3] [<img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />][sass] [<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />][bootstrap] |
 | JS/TS ecosystem | [<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />][js] [<img alt="Javascript" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />][jquery] |
 |General Purpose | [<img alt="C++" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" />][c] [<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />][cpp] [<img src= "https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white" />][python] [<img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" />][perl] |
-
-## Tools:
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-
-<br />
 
 ## Languages:
 
