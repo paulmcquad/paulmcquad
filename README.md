@@ -21,18 +21,19 @@ I'm a Founder of [Swords Maker Space][swordsmakerspace] 👋
 - 💬 Ask me about anything you want help with.
 - ⚡ Fun fact: I started coding C++ back in 1998. Before the internet was mainstream (broadband) - no youtube, facebook or twitter & no git/Github/stackoverflow to help.
 
+<!---
 ### - 📫 How to reach me:
 
 [<img align="left" alt="paulmcquad | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
-<!--
+
 [<img align="left" alt="paulmcquad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="paulmcquad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
--->
+
 [<img align="left" alt="paulmcquad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="paulmcquad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="paulmcquad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="paulmcquad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-
+--->
 <img src="https://projecteuler.net/profile/paulmcquad.png">
 <br />
 
