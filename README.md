@@ -10,7 +10,7 @@
 My name is Paul McQuade. I live in Dublin Ireland  🇮🇪. 
 
 I'm a open source developer and mentor.
-I'm a Founder of [Swords Maker Space][swordsmakerspace] 👋
+I'm a founder of [Swords Maker Space][swordsmakerspace] 👋
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
@@ -99,11 +99,7 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 |---------|--------------|
 | Version Control System (VCS) | [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />][git] |
 | Code hosting | <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> [<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />][gitlab] |
-| Frontend | [<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />][html5] [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" />][css3] [<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />][bootstrap] |
-
-
-
-
+| Frontend | [<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />][html5] [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" />][css3] [<img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />][sass] [<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />][bootstrap] |
 
 
 
@@ -124,7 +120,6 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 
 ### Web Development:
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" >][jquery]
 
