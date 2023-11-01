@@ -4,9 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulmcquad/)](https://www.linkedin.com/in/paulmcquad/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY)](https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY)
 
-<!---
-[![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
--->
 My name is Paul McQuade. I live in Dublin Ireland  🇮🇪. 
 
 I'm a open source developer and mentor.
@@ -28,38 +25,22 @@ I'm a founder of [Swords Maker Space][swordsmakerspace] 👋
 [<img align="left" alt="paulmcquad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="paulmcquad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 --->
-<img src="https://projecteuler.net/profile/paulmcquad.png">
-<br />
-
 <!--
 [![website](https://img.shields.io/website?label=paulmcquad.github.io&style=for-the-badge&url=https://paulmcquad.github.io)](https://paulmcquad.github.io)
 -->
 <!--
 [![Website](https://img.shields.io/website?label=swordsmakerspace.github.io/swordsmakerspace/&style=for-the-badge&url=https://swordsmakerspace.github.io/swordsmakerspace/)](https://swordsmakerspace.github.io/swordsmakerspace/index.html)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/paulmcquad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/paulmcquad&screen_name=paulmcquad)
-
 <br />
-
-
-
-
-
-
-## [Swords Maker Space][swordsmakerspace]
-
-Swords Maker Space is an online coding meetup group. It's for people who want to learn how to code from people who know how to code!
-
-Due to the Covid-19 situation - The meeting is done online via Zoom meetups only.
-
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY) 
--->
 <!--
 [![Meetup](https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)](https://www.meetup.com/Dublin-Coder-Forge/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/coderforge) 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://coderforgeworkspace.slack.com/) 
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/87920681193)
 -->
+
+
+
 
 <details>
   <summary>🎡 Hobbies </summary>
@@ -73,6 +54,11 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 💬 Ask me about anything you want help with.
 
 ⚡ Fun fact: I started coding C++ back in 1998. Before the internet was mainstream (broadband) - no youtube, facebook or twitter & no git/Github/stackoverflow to help.
+
+I take part to coding challenges like Projecteuler.net ->
+
+<img src="https://projecteuler.net/profile/paulmcquad.png">
+<br />
 
 </details>
 
