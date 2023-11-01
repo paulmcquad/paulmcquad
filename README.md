@@ -77,6 +77,25 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 </details>
 
 
+<details>
+ <summary>📺 Latest YouTube Videos</summary>
+  
+<!-- YOUTUBE:START -->
+
+- [⭐ Digital Electronics S1 EP2 - Logic Gates](https://www.youtube.com/watch?v=lZlQR0NgoK8)
+
+- [⭐ Digital Electronics S1 EP1 - Number Systems](https://www.youtube.com/watch?v=IP8qEoGSItk)
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
+
+---
+
+</details>
+
+
+
 
 
 
@@ -135,20 +154,6 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-- [⭐ Digital Electronics S1 EP2 - Logic Gates](https://www.youtube.com/watch?v=lZlQR0NgoK8)
-
-- [⭐ Digital Electronics S1 EP1 - Number Systems](https://www.youtube.com/watch?v=IP8qEoGSItk)
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
 
 ---
 
