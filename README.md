@@ -1,6 +1,8 @@
 # 👋 Hi there! I'm Paul 🇮🇪
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulmcquad/)](https://www.linkedin.com/in/paulmcquad/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY)](https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY)
+
 
 My name is Paul McQuade. I live in Dublin Ireland  🇮🇪. 
 
