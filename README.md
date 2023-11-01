@@ -106,11 +106,11 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 | Backend | [<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />][go] [<img alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />][ruby] [<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />][node] |
 |NoSQL | [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />][mongodb] |
 | Statistical | [<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />][r] |
+| Legacy | [<img alt="fortran" src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat-square&logo=fortran&logoColor=white" />][fortran] |
 
 ## Languages:
 
 [<img align="left" alt="cobol" width="26px" src="https://hackr.io/tutorials/learn-cobol/logo/logo-cobol?ver=1557508141">][cobol]
-[<img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/255px-Fortran_logo.svg.png">][fortran]
 
 <!-- Websites -->
 
