@@ -12,6 +12,16 @@ My name is Paul McQuade. I live in Dublin Ireland  🇮🇪.
 I'm a open source developer and mentor.
 I'm a Founder of [Swords Maker Space][swordsmakerspace] 👋
 
+- My Moblie Phone and Desktop Operating Systems:
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
+
+- Office Suite:
+
+[![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
+
+
+
 <!---
 ### Hi there, I'm Paul. Founder of [Swords Maker Space][swordsmakerspace] 👋
 
@@ -45,10 +55,15 @@ I'm a Founder of [Swords Maker Space][swordsmakerspace] 👋
 -->
 <!--
 [![Website](https://img.shields.io/website?label=swordsmakerspace.github.io/swordsmakerspace/&style=for-the-badge&url=https://swordsmakerspace.github.io/swordsmakerspace/)](https://swordsmakerspace.github.io/swordsmakerspace/index.html)
--->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/paulmcquad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/paulmcquad&screen_name=paulmcquad)
 
 <br />
+
+
+
+
+
 
 ## [Swords Maker Space][swordsmakerspace]
 
@@ -57,7 +72,7 @@ Swords Maker Space is an online coding meetup group. It's for people who want to
 Due to the Covid-19 situation - The meeting is done online via Zoom meetups only.
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY) 
-
+-->
 <!--
 [![Meetup](https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)](https://www.meetup.com/Dublin-Coder-Forge/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/coderforge) 
@@ -65,15 +80,6 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/87920681193)
 -->
 
-## My Developer Setup
-
-- My Moblie Phone and Desktop Operating Systems:
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
-
-- Office Suite:
-
-[![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
 
 ## Tools:
 
