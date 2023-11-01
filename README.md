@@ -75,6 +75,25 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/87920681193)
 -->
 
+<details>
+  <summary>🎡 Hobbies </summary>
+
+<br />
+🔭 I’m currently working on my projects involving maths and coding.
+
+🌱 I’m currently researching number theory.
+
+👯 I’m looking to collaborate on other developers.
+
+💬 Ask me about anything you want help with.
+
+⚡ Fun fact: I started coding C++ back in 1998. Before the internet was mainstream (broadband) - no youtube, facebook or twitter & no git/Github/stackoverflow to help.
+
+</details>
+
+
+
+
 
 ## Tools:
 
