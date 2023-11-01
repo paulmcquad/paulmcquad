@@ -14,7 +14,7 @@ I'm a Founder of [Swords Maker Space][swordsmakerspace] 👋
 
 <!---
 ### Hi there, I'm Paul. Founder of [Swords Maker Space][swordsmakerspace] 👋
--->
+
 ## I'm a open source developer and mentor
 
 - 🔭 I’m currently working on my projects involving maths and coding.
@@ -23,7 +23,7 @@ I'm a Founder of [Swords Maker Space][swordsmakerspace] 👋
 - 🤔 I’m looking for help to improve coderforge website.
 - 💬 Ask me about anything you want help with.
 - ⚡ Fun fact: I started coding C++ back in 1998. Before the internet was mainstream (broadband) - no youtube, facebook or twitter & no git/Github/stackoverflow to help.
-
+-->
 <!---
 ### - 📫 How to reach me:
 
