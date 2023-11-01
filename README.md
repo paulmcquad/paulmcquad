@@ -12,12 +12,7 @@ My name is Paul McQuade. I live in Dublin Ireland  🇮🇪.
 I'm a open source developer and mentor.
 I'm a Founder of [Swords Maker Space][swordsmakerspace] 👋
 
-- My Moblie Phone and Desktop Operating Systems:
-
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
-
-- Office Suite:
-
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
 
 
