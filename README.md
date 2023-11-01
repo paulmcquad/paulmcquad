@@ -1,5 +1,8 @@
-### Hi there, I'm Paul. Founder of [Swords Maker Space][swordsmakerspace] 👋
+# 👋 Hi there! I'm Paul 🇮🇪
 
+<!---
+### Hi there, I'm Paul. Founder of [Swords Maker Space][swordsmakerspace] 👋
+-->
 ## I'm a open source developer and mentor
 
 - 🔭 I’m currently working on my projects involving maths and coding.
