@@ -15,20 +15,6 @@ I'm a Founder of [Swords Maker Space][swordsmakerspace] 👋
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
 
-
-
-<!---
-### Hi there, I'm Paul. Founder of [Swords Maker Space][swordsmakerspace] 👋
-
-## I'm a open source developer and mentor
-
-- 🔭 I’m currently working on my projects involving maths and coding.
-- 🌱 I’m currently researching number theory.
-- 👯 I’m looking to collaborate on other developers.
-- 🤔 I’m looking for help to improve coderforge website.
-- 💬 Ask me about anything you want help with.
-- ⚡ Fun fact: I started coding C++ back in 1998. Before the internet was mainstream (broadband) - no youtube, facebook or twitter & no git/Github/stackoverflow to help.
--->
 <!---
 ### - 📫 How to reach me:
 
