@@ -1,9 +1,12 @@
 # 👋 Hi there! I'm Paul 🇮🇪
 
+[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/paulmcquad/)](https://twitter.com/paulmcquad)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulmcquad/)](https://www.linkedin.com/in/paulmcquad/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY)](https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY)
 
-
+<!---
+[![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+-->
 My name is Paul McQuade. I live in Dublin Ireland  🇮🇪. 
 
 I'm a open source developer and mentor.
