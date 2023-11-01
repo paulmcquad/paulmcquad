@@ -78,7 +78,6 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 <details>
   <summary>🎡 Hobbies </summary>
 
-<br />
 🔭 I’m currently working on my projects involving maths and coding.
 
 🌱 I’m currently researching number theory.
