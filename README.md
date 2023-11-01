@@ -103,6 +103,9 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 | Frontend | [<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />][html5] [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" />][css3] [<img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />][sass] [<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />][bootstrap] |
 | JS/TS ecosystem | [<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />][js] [<img alt="Javascript" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />][jquery] |
 |General Purpose | [<img alt="C++" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" />][c] [<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />][cpp] [<img src= "https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white" />][python] [<img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" />][perl] [<img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />][scala] |
+| Backend | [<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />][go] [<img alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />][ruby] |
+
+
 
 
 ## Languages:
@@ -113,14 +116,6 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [<img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/255px-Fortran_logo.svg.png">][fortran]
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">][java]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][r]
-
-<br />
-<br />
-
-### Modern Languages (2000s):
-
-[<img align="left" alt="ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">][ruby]
-[<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">][go]
 
 <br />
 <br />
