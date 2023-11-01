@@ -105,14 +105,13 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 |General Purpose | [<img alt="C++" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" />][c] [<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />][cpp] [<img src= "https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white" />][python] [<img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" />][perl] [<img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />][scala] |
 | Backend | [<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />][go] [<img alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />][ruby] [<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />][node] |
 |NoSQL | [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />][mongodb] |
-
+| Statistical | [<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />][r] |
 
 ## Languages:
 
 [<img align="left" alt="cobol" width="26px" src="https://hackr.io/tutorials/learn-cobol/logo/logo-cobol?ver=1557508141">][cobol]
 [<img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/255px-Fortran_logo.svg.png">][fortran]
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">][java]
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][r]
 
 <!-- Websites -->
 
