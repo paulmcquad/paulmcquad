@@ -95,6 +95,20 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 </details>
 
 
+| Skill   | Technologies |
+|---------|--------------|
+| Version Control System (VCS) | [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />][git] |
+| Code hosting | <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> [<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />][gitlab] |
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -103,8 +117,6 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][git]
 
 <br />
 
@@ -167,6 +179,7 @@ Due to the Covid-19 situation - The meeting is done online via Zoom meetups only
 [instagram]: https://instagram.com/paulmcquad
 [linkedin]: https://linkedin.com/in/paulmcquad
 [swordsmakerspace]: https://github.com/swordsmakerspace
+[gitlab]: https://gitlab.com/paulmcquad
 
 <!-- Languages -->
 
