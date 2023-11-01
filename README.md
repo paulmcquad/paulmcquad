@@ -1,5 +1,12 @@
 # 👋 Hi there! I'm Paul 🇮🇪
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulmcquad/)](https://www.linkedin.com/in/paulmcquad/)
+
+My name is Paul McQuade. I live in Dublin Ireland  🇮🇪. 
+
+I'm a open source developer and mentor.
+I'm a Founder of [Swords Maker Space][swordsmakerspace] 👋
+
 <!---
 ### Hi there, I'm Paul. Founder of [Swords Maker Space][swordsmakerspace] 👋
 -->
