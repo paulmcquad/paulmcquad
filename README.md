@@ -36,7 +36,12 @@ I'm a founder of [Swords Maker Space][swordsmakerspace] 👋
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/87920681193)
 -->
 
-
+<details>
+  <summary> 🎓 Education </summary>
+| Topic   | Course       |
+|---------|--------------|
+| Coding | [<img alt="geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c" />][geeksforgeeks]  |
+</details>
 
 
 <details>
@@ -123,6 +128,8 @@ I take part to coding challenges like Projecteuler.net ->
 | ML/DL | [<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>][NumPy] [<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"/>][Matplotlib] |
 | Legacy | [<img alt="fortran" src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat-square&logo=fortran&logoColor=white" />][fortran] [<img alt="cobol" src="https://img.shields.io/badge/Cobol-563D7C?style=flat-square&logo=cobol&logoColor=white" />][cobol] |
 
+<!-- Education -->
+[geeksforgeeks]: https://www.geeksforgeeks.org/
 
 <!-- ML/DL -->
 [NumPy]: https://numpy.org/
