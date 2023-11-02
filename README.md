@@ -120,7 +120,13 @@ I take part to coding challenges like Projecteuler.net ->
 | Backend | [<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />][go] [<img alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />][ruby] [<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />][node] |
 |NoSQL | [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />][mongodb] |
 | Statistical | [<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />][r] |
+| ML/DL | [<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>][NumPy] [<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"/>][Matplotlib] |
 | Legacy | [<img alt="fortran" src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat-square&logo=fortran&logoColor=white" />][fortran] [<img alt="cobol" src="https://img.shields.io/badge/Cobol-563D7C?style=flat-square&logo=cobol&logoColor=white" />][cobol] |
+
+
+<!-- ML/DL -->
+[NumPy]: https://numpy.org/
+[Matplotlib]: https://matplotlib.org/
 
 <!-- Websites -->
 
