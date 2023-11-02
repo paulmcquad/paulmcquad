@@ -9,44 +9,6 @@ My name is Paul McQuade. I live in Dublin Ireland  🇮🇪.
 I'm a open source developer and mentor.
 I'm a founder of [Swords Maker Space][swordsmakerspace] 👋
 
-<!---
-### - 📫 How to reach me:
-
-[<img align="left" alt="paulmcquad | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
-
-[<img align="left" alt="paulmcquad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="paulmcquad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img align="left" alt="paulmcquad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="paulmcquad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="paulmcquad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="paulmcquad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
---->
-<!--
-[![website](https://img.shields.io/website?label=paulmcquad.github.io&style=for-the-badge&url=https://paulmcquad.github.io)](https://paulmcquad.github.io)
--->
-<!--
-[![Website](https://img.shields.io/website?label=swordsmakerspace.github.io/swordsmakerspace/&style=for-the-badge&url=https://swordsmakerspace.github.io/swordsmakerspace/)](https://swordsmakerspace.github.io/swordsmakerspace/index.html)
-
-<br />
-<!--
-[![Meetup](https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)](https://www.meetup.com/Dublin-Coder-Forge/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/coderforge) 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://coderforgeworkspace.slack.com/) 
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/87920681193)
--->
-
-<details>
-  <summary>🎓 Education </summary>
-  
-| Topic   | Course       |
-|---------|--------------|
-| Coding | [<img alt="geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c" />][geeksforgeeks] [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat-square&logo=freecodecamp&logoColor=green)][FreeCodeCamp]  |
-
-
-</details>
-
-
 <details>
   <summary>🎡 Hobbies </summary>
 
@@ -67,6 +29,15 @@ I take part to coding challenges like Projecteuler.net ->
 
 </details>
 
+<details>
+  <summary>🎓 Education </summary>
+  
+| Topic   | Course       |
+|---------|--------------|
+| Coding | [<img alt="geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c" />][geeksforgeeks] [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat-square&logo=freecodecamp&logoColor=green)][FreeCodeCamp]  |
+
+</details>
+
 
 </details>
 
@@ -81,12 +52,7 @@ I take part to coding challenges like Projecteuler.net ->
 
 <!--END_SECTION:organizations-section-->
 
-
-
- </details>
-
-
-
+</details>
 
 <details>
  <summary>📺 Latest YouTube Videos</summary>
