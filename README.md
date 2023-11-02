@@ -82,7 +82,7 @@ I take part to coding challenges like Projecteuler.net ->
 </details>
 
 <details>
-   <summary>📚 Maths</summary>
+   <summary>🧮 Maths</summary>
 
 | Topic   | Course       |
 |---------|--------------|
@@ -94,6 +94,17 @@ I take part to coding challenges like Projecteuler.net ->
 | Calculators| [Mathway](https://www.mathway.com/Calculus) [Maplecalculator](https://www.maplesoft.com/products/Maplecalculator/) [getcalc](https://getcalc.com/) ["Boolean Algebra + Kmap solver"](https://play.google.com/store/apps/details?id=com.vkpapps.booleanalgebra&hl=en&gl=US)  |
 
 </details>
+
+
+<details>
+   <summary>📚 Books </summary>
+
+ - [Nmap Network Scanning](https://nmap.org/book/)
+ - More coming soon!!!
+
+</details>
+
+
 
 | Skill   | Technologies |
 |---------|--------------|
