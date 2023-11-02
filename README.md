@@ -97,6 +97,15 @@ I take part to coding challenges like Projecteuler.net ->
 
 </details>
 
+<details>
+   <summary>📚 Maths</summary>
+
+| Topic   | Course       |
+|---------|--------------|
+| General | [calpoly.edu/math](https://catalog.calpoly.edu/coursesaz/math/) |
+| Research | [arxiv.org/math](https://arxiv.org/archive/math) |
+</details>
+
 
 | Skill   | Technologies |
 |---------|--------------|
@@ -181,4 +190,6 @@ Here are some ideas to get you started:
 - https://github.com/progfay/shields-with-icon
 
 - https://github.com/Ileriayo/markdown-badges
+
+- https://emojipedia.org/
 -->
