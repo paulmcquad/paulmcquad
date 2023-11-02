@@ -102,10 +102,10 @@ I take part to coding challenges like Projecteuler.net ->
 
 | Topic   | Course       |
 |---------|--------------|
+| Editor | [mathcha-editor](https://www.mathcha.io/editor) |
 | General | [calpoly.edu/math](https://catalog.calpoly.edu/coursesaz/math/) |
 | Research | [arxiv.org/math](https://arxiv.org/archive/math) |
 </details>
-
 
 | Skill   | Technologies |
 |---------|--------------|
