@@ -93,6 +93,16 @@ I take part to coding challenges like Projecteuler.net ->
   
 <!-- YOUTUBE:START -->
 
+- [⭐ MRV#5 - Nag Removal & Registering with x64dbg](https://www.youtube.com/watch?v=lFsJrmdwa9c)
+
+- [⭐ MRV#4 - Patching & Serial Fishing with x64dbg](https://youtu.be/tx0Oz2TB4s4)
+
+- [⭐ MRV#3 - Debugger: x64dbg (Walkthrough)](https://youtu.be/8JEtQODM2lI)
+
+- [⭐ MRV#2 File Signatures - (Docs and Tools)](https://youtu.be/7zwRYg7aWuQ)
+
+- [⭐ MRV#1 File Formats - (Docs and Tools) ](https://www.youtube.com/watch?v=SggHBFqx6M0)
+
 - [⭐ Digital Electronics S1 EP2 - Logic Gates](https://www.youtube.com/watch?v=lZlQR0NgoK8)
 
 - [⭐ Digital Electronics S1 EP1 - Number Systems](https://www.youtube.com/watch?v=IP8qEoGSItk)
