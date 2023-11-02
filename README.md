@@ -89,6 +89,10 @@ I take part to coding challenges like Projecteuler.net ->
 | Editor | [mathcha-editor](https://www.mathcha.io/editor) |
 | General | [calpoly.edu/math](https://catalog.calpoly.edu/coursesaz/math/) |
 | Research | [arxiv.org/math](https://arxiv.org/archive/math) |
+| Precalculus | [Binomial_theorem](https://en.wikipedia.org/wiki/Binomial_theorem)  |
+| Mathematicians | [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) |
+| Calculators| [Mathway](https://www.mathway.com/Calculus) [Maplecalculator](https://www.maplesoft.com/products/Maplecalculator/) [getcalc](https://getcalc.com/) ["Boolean Algebra + Kmap solver"](https://play.google.com/store/apps/details?id=com.vkpapps.booleanalgebra&hl=en&gl=US)  |
+
 </details>
 
 | Skill   | Technologies |
