@@ -41,7 +41,8 @@ I'm a founder of [Swords Maker Space][swordsmakerspace] 👋
   
 | Topic   | Course       |
 |---------|--------------|
-| Coding | [<img alt="geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c" />][geeksforgeeks]  |
+| Coding | [<img alt="geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c" />][geeksforgeeks] [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat-square&logo=freecodecamp&logoColor=green)][FreeCodeCamp]  |
+
 
 </details>
 
@@ -132,7 +133,7 @@ I take part to coding challenges like Projecteuler.net ->
 
 <!-- Education -->
 [geeksforgeeks]: https://www.geeksforgeeks.org/
-
+[FreeCodeCamp]: https://www.freecodecamp.org/
 <!-- ML/DL -->
 [NumPy]: https://numpy.org/
 [Matplotlib]: https://matplotlib.org/
