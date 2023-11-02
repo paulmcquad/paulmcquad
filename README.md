@@ -9,8 +9,6 @@ My name is Paul McQuade. I live in Dublin Ireland  🇮🇪.
 I'm a open source developer and mentor.
 I'm a founder of [Swords Maker Space][swordsmakerspace] 👋
 
-[![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
-
 <!---
 ### - 📫 How to reach me:
 
@@ -103,6 +101,7 @@ I take part to coding challenges like Projecteuler.net ->
 | Skill   | Technologies |
 |---------|--------------|
 | OS | [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/) [![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)](https://manjaro.org/) |
+| Office | [![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat-square&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/) [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Office/)  |
 | Tools | [<img alt="bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />][terminal] [<img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">][vscode] |
 | Version Control System (VCS) | [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />][git] |
 | Code hosting | <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> [<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />][gitlab] |
