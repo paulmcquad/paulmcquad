@@ -37,10 +37,12 @@ I'm a founder of [Swords Maker Space][swordsmakerspace] 👋
 -->
 
 <details>
-  <summary> 🎓 Education </summary>
+  <summary>🎓 Education </summary>
+  
 | Topic   | Course       |
 |---------|--------------|
 | Coding | [<img alt="geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c" />][geeksforgeeks]  |
+
 </details>
 
 
