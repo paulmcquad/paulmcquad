@@ -53,6 +53,8 @@ I take part to coding challenges like Projecteuler.net ->
 | Account | Description  |
 |---------|--------------|
 |<a href="https://github.com/swordsmakerspace"><img alt="Swords Maker Space" src="https://img.shields.io/badge/-SwordsMakerSpace-181717?style=flat-square&logo=github&logoColor=white" /> | Welcome to Swords Makerspace. We love Science, technology, engineering, and mathematics (STEM)  |
+|<a href="https://github.com/EntySec"><img alt="EntySec" src="https://img.shields.io/badge/-EntySec-181717?style=flat-square&logo=github&logoColor=white" /> | EntySec is a group of security professionals and software engineers involved in the development of security tools and services. |
+
 
 <!--END_SECTION:organizations-section-->
 
