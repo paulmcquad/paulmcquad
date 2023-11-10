@@ -9,6 +9,10 @@ My name is Paul McQuade. I live in Dublin Ireland  🇮🇪.
 I'm a open source developer and mentor.
 I'm a founder of [Swords Maker Space][swordsmakerspace] 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img title="Github Stats" alt="Paul's streak" src="https://github-readme-stats.vercel.app/api?username=paulmcquad"/>
+</a>
+
 <details>
   <summary>🎡 Hobbies </summary>
 
