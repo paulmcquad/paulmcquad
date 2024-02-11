@@ -6,7 +6,8 @@
 
 My name is Paul McQuade. I live in Dublin Ireland  🇮🇪. 
 
-I'm a open source developer and mentor.
+I'm a open source / Linux developer and mentor.
+
 I'm a founder of [Swords Maker Space][swordsmakerspace] 👋
 
 Secure Email Me:
