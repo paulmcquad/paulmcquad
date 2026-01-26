@@ -6,6 +6,8 @@
 
 My name is Paul McQuade. I live in Dublin Ireland  🇮🇪. 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/paulmcquad.png" alt="Your Image Badge" />
+
 I'm a Cyber Security Expert / open source / Linux developer and mentor.
 
 I'm a founder of [Swords Maker Space][swordsmakerspace] 👋
